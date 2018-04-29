@@ -1,1 +1,6 @@
-# proposal
+# Title: Social Trends During Hurricane Harvey
+## Group Members: Thomas Braun
+Motives: Use this project as a means for exploring and understanding geospatial social media data such that its insight aids research this Summer
+Description: For this project, I will take social media data during Hurricane Harvey and show the evolution of "ego" as a function of time across the temporal range of ~1 month. The website, which will present the data, will contain information of both the overall trend and a daily trend. The daily trend will be controllable via a slider that causes an update to the webpage, whereas the overall trend will be statically fixed and visible. 
+Data: The data is thankfully being procured by graduate student Brian Katz. He said that data should be ready before 10 May
+Interface design: Idea 1: https://johnsorib.github.io/slr/ : The data which will be presented on my webpage will have a structure similar to Idea 1. Regions of a fixed size will show the average ego-index by having a variable color. Idea 2: https://cdn.rawgit.com/jug650/parks/80635d67/index.html : Use color-coded polygons to show the magnitude of ego-index. Overall, I want to show the magnitude of ego-index geospatially with a color-code in the region which was laid to waste by Hurricane Harvey.
